@@ -18,7 +18,8 @@
 
 ## 📌 기능
 * Home(센터 소개), Program(프로그램 소개), Location(센터 위치), Contact(센터 연락망), News(최신 소식)
-* 이전보다 가시성이 높도록 리모델링하여 웹사이트를 구현하였음 (리모델링 전 : https://www.sanskrit.or.kr/)
+* 이전보다 가시성이 높도록 리모델링하여 웹사이트를 구현하였음
+* 리모델링 전 : https://www.sanskrit.or.kr/
 
 ## 👩‍💻 역할
 * Java Script, JQurey 메소드 구현
