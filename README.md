@@ -20,6 +20,7 @@
 ## 📌 Functions
 * Home (center introduction), Program (program introduction), Location (center location), Contact (center contact), News (center news)
 * The website has been adapted for better visibility than ever before.
+* Original website URL : https://www.sanskrit.or.kr/
 
 ## 👩‍💻 Roles
 * Created all functions
