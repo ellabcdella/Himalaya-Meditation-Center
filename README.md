@@ -20,5 +20,5 @@
 * The website has been adapted for better visibility than ever before.
 
 ## 👩‍💻 Roles
-* All functions
+* Created all functions
 * UI design
