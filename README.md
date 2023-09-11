@@ -16,7 +16,7 @@
 * Jun.12, 2023 ~ Jun.25, 2023
 
 ## 📌 Functions
-* Home (center introduction), Program (program introduction), Location (center location), Contact (center contact), News (center news) menu
+* Home (center introduction), Program (program introduction), Location (center location), Contact (center contact), News (center news)
 * The website has been adapted for better visibility than ever before.
 
 ## 👩‍💻 Roles
