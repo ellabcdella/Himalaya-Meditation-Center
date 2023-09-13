@@ -2,6 +2,7 @@
 **Himalaya Meditation Center⛰️ / Personal website remodeling**
 
 [![Video Label](http://img.youtube.com/vi/jSNnz2GkuPw/0.jpg)](https://youtu.be/jSNnz2GkuPw)
+<br/>Please refer to the above video for details.
 
 ## 💻 Introduction
 * Remodeled my father's old personal website, which runs the Himalaya Meditation Center.
