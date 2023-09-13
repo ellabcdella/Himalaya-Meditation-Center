@@ -29,4 +29,4 @@
 
 ## 👩‍💻 Roles
 * Created all functions
-* UI design
+* UI/UX design
